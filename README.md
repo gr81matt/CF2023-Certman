@@ -18,7 +18,7 @@ Edit the CFIDE\administrator\custommenu.xml file to add the following submenu xm
       <menuitem href="certman" target="content">Certificate Management</menuitem>
     </submenu>
 
-Included a section icon -- having trouble finding instructions on how to set that. Icon needs specific name and must be moved to the CFIDE\administrator\images\ folder.
+Included a section icon "customsubmenu1.png". Copy/Move image to the CFIDE\administrator\images\ folder.
 
 ### Notes
 
